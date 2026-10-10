@@ -1,6 +1,10 @@
 # so i can do this huh
-sick
+## sick
 
-i make 
+### i make 
 
-<code>
+`code`
+
+~~ive been CROSSED OUT~~ i havent been crossed out
+
+# bye #healing #student
