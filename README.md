@@ -3,7 +3,7 @@
 
 ### i make 
 
-`code`
+`code` (sometimes 4 school)
 
 ~~ive been CROSSED OUT~~ i havent been crossed out
 
