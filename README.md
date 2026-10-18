@@ -1,11 +1,12 @@
 # so i can do this huh[^1]
 ## sick<sup>sick</sup> 
 
-```
-i make 
-```
+`i make`
 
-`code` <sub>(sometimes 4 school)</sub>
+```
+code
+```
+<sub>(sometimes 4 school)</sub>
 
 ~~ive been CROSSED OUT~~ i havent been crossed out
 
