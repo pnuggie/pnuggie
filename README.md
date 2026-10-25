@@ -46,7 +46,5 @@ more children will arise soon. i cannot be contained.
 - [ ] eating a mayo chicken
 
 
-## o_o
-
 [^1]: an obscene amount of markdown i think
 [^2]: why on earth is it a tech STACK anyway? i dont feel like im stacking anything. i just use things. i propose: my technological capabilities in this field of expertise. a TCITFOE. my TCITFOE. *our* TCITFOE.
