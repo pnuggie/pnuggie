@@ -28,6 +28,7 @@ more children will arise soon. i cannot be contained.
 - HTML + CSS
 - Firebase experimentation
 - Google Cloud Agent Platform (until my 90 day trial ran out. yet to find a decent alternative)
+- currently <ins>experimenting<ins> with Cisco Packet Tracer
 
 ## things id like to do
 
