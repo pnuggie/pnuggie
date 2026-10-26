@@ -30,6 +30,18 @@ more children will arise soon. i cannot be contained.
 - Google Cloud Agent Platform (until my 90 day trial ran out. yet to find a decent alternative)
 - currently <ins>experimenting</ins> with Cisco Packet Tracer
 
+## random tools i use
+
+- Obsidian
+
+  it is the best thing ever everyone should use it
+- NotebookLM
+
+  its pretty cool to do experiments with, and works like a mini specialised Google.
+- Visual Studio (the purple one)
+
+  its kind of a pain sometimes, like when i just want to run a program while also having another 1 or 2 open as tabs, but it doesnt run the one im currently on. i think thats a bit stupid.
+
 ## things id like to do
 
 - [ ] learn osint properly
