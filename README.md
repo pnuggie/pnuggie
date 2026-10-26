@@ -34,7 +34,7 @@ more children will arise soon. i cannot be contained.
 
 - Obsidian
 
-  it is the best thing ever everyone should use it
+  it is the best thing ever everyone should use it (its for making connected notes)
 - NotebookLM
 
   its pretty cool to do experiments with, and works like a mini specialised Google.
