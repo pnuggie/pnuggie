@@ -24,7 +24,7 @@ more children will arise soon. i cannot be contained.
 ## technologies i have subjected myself to
 ### or as the fancy jargon word people say, a ✨tech stack✨[^2]
 
-- Python 
+- Python + a bit of matplotlib, which ya can check out in my euv project above.
 - HTML + CSS
 - Firebase experimentation
 - Google Cloud Agent Platform (until my 90 day trial ran out. yet to find a decent alternative)
