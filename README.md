@@ -36,13 +36,13 @@ more children will arise soon. i cannot be contained.
 
 - Obsidian
 
-  it is the best thing ever everyone should use it (its for making notes, but istfg its the best one out there)
+  - it is the best thing ever everyone should use it (its for making notes, but istfg its the best one out there)
 - NotebookLM
 
-  its pretty cool to do experiments with, and works like a mini specialised Google. you can feed it external sources, or your own documents, and then create things from that!
+  - its pretty cool to do experiments with, and works like a mini specialised Google. you can feed it external sources, or your own documents, and then create things from that!
 - Visual Studio (the purple one)
 
-  its kind of a pain sometimes, like when i just want to run a program while also having another 1 or 2 open as tabs, but it doesnt run the one im currently on. i think thats a bit stupid.
+  - its kind of a pain sometimes, like when i just want to run a program while also having another 1 or 2 open as tabs, but it doesnt run the one im currently on. i think thats a bit stupid.
 
 ## things id like to do
 
