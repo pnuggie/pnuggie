@@ -1,5 +1,5 @@
 # so i can do this huh[^1]
-## sick<sup>sick</sup> 
+## sick<sup>sick</sup>  i<sup>i</sup> guess<sup>guess</sup> !<sup>!</sup> 
 
 `i make`
 
@@ -9,6 +9,8 @@ code
 <sub>(sometimes 4 school)</sub>
 
 ~~ive been CROSSED OUT~~ i havent been crossed out
+
+**fun trick!** think of a number between 1 and 10. then x2 it. now x5 the result. divide that by your og number. now take 7 away from it. did you end up with *3*?
 
 ## my children
 [python file system simulator](https://github.com/pnuggie/python-file-system-simulator)
