@@ -23,7 +23,8 @@ i also have stupid things like:
 
 [the evil twin of said file system simulator (`.chan` files.)](https://github.com/pnuggie/chan-chan)
 
-more children will arise soon. i cannot be contained.
+
+### more children will arise soon. i cannot be contained.
 
 ## technologies i have subjected myself to
 ### or as the fancy jargon word people say, a ✨tech stack✨[^2]
