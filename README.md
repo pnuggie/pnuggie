@@ -21,6 +21,8 @@ i also have stupid things like:
 
 [WannaPoop, a fake tkinter malware](https://github.com/pnuggie/wanna-poop)
 
+[the evil twin of said file system simulator (`.chan` files.)](https://github.com/pnuggie/chan-chan)
+
 more children will arise soon. i cannot be contained.
 
 ## technologies i have subjected myself to
